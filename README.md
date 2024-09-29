@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **I'm Arunkumar i'm BE.(Mech) Sdudent**
+- 💬 Ask me about **I'm Arunkumar i'm BE.(Mech) Student**
 
 - 📫 How to reach me **arun252303@gmail.com**
 
